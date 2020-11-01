@@ -17,6 +17,6 @@
 
 **Adjust the aws command with your variables, and then run it for having this Infrastructre in your AWS account.**
 
-'''sh
+```sh
 aws cloudformation create-stack --stack-name <value> --parameters <value>
-'''
+```
