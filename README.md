@@ -2,7 +2,7 @@
 
 ## Checklist
 
-**_If you don't have ready environment to deploy this IaC. Please deploy the link first._**
+**_If you don't have a ready environment to deploy this IaC. Please deploy the link first._**
 
 **For creating new VPC, Subnets, and etc.**
 - https://docs.aws.amazon.com/codebuild/latest/userguide/cloudformation-vpc-template.html
